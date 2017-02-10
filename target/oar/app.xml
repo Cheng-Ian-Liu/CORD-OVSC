@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <app name="org.onosproject.ovsc" origin="Cheng (Ian) Liu" version="1.6.1-SNAPSHOT"
-        title="ovsc" category="default" url="http://onosproject.org"
+        title="OVS Flow Rules Population for VLAN-based SFC" category="default" url="http://onosproject.org"
         featuresRepo="mvn:org.onosproject.ovsc/ovsc/1.6.1-SNAPSHOT/xml/features"
         features="ovsc" apps="">
     <description>OVS Configuration.</description>

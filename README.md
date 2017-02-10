@@ -1,8 +1,8 @@
 # ovsc
 
-define the configuration file for populating the flow rules to OVS programmatically
+This ONOS app is used for populating OVS flow rules programmatically (instead of manually) in order to implement VLAN-based SFC for E-CORD L2VPN Use Case
 
-example cfg file:
+Following is an example cfg file:
 
     {
     "apps" : {

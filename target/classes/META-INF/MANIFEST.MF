@@ -1,17 +1,17 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1486750334770
+Bnd-LastModified: 1486750569699
 Build-Jdk: 1.8.0_91
 Built-By: chengliu
 Bundle-Description: ONOS OSGi bundle archetype
 Bundle-ManifestVersion: 2
 Bundle-Name: ovsc
 Bundle-SymbolicName: org.onosproject.ovsc
-Bundle-Version: 1.6.1.SNAPSHOT
+Bundle-Version: 1.8.0
 Created-By: Apache Maven Bundle Plugin
 Export-Package: org.onosproject.ovsc;uses:="org.onosproject.core,org.ono
  sproject.net,org.onosproject.net.config,org.onosproject.net.device,org.
  onosproject.net.flow,org.onosproject.net.flowobjective,org.slf4j";versi
- on="1.6.1"
+ on="1.8.0"
 Import-Package: com.fasterxml.jackson.databind;version="[2.7,3)",com.fas
  terxml.jackson.databind.node;version="[2.7,3)",org.onlab.packet;version
  ="[1.8,2)",org.onlab.util;version="[1.8,2)",org.onosproject.core;versio

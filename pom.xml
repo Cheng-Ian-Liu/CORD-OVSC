@@ -19,7 +19,7 @@
 
     <groupId>org.onosproject.ovsc</groupId>
     <artifactId>ovsc</artifactId>
-    <version>1.6.1-SNAPSHOT</version>
+    <version>1.8.0</version>
     <packaging>bundle</packaging>
 
     <description>ONOS OSGi bundle archetype</description>

@@ -14,10 +14,10 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-<app name="org.onosproject.ovsc" origin="Cheng (Ian) Liu" version="1.6.1-SNAPSHOT"
+<app name="org.onosproject.ovsc" origin="Cheng (Ian) Liu" version="1.8.0"
         title="OVS Flow Rules Population for VLAN-based SFC" category="default" url="http://onosproject.org"
-        featuresRepo="mvn:org.onosproject.ovsc/ovsc/1.6.1-SNAPSHOT/xml/features"
+        featuresRepo="mvn:org.onosproject.ovsc/ovsc/1.8.0/xml/features"
         features="ovsc" apps="">
     <description>OVS Configuration.</description>
-    <artifact>mvn:org.onosproject.ovsc/ovsc/1.6.1-SNAPSHOT</artifact>
+    <artifact>mvn:org.onosproject.ovsc/ovsc/1.8.0</artifact>
 </app>

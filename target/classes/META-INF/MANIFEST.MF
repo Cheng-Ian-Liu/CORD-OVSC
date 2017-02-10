@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1486750127133
+Bnd-LastModified: 1486750334770
 Build-Jdk: 1.8.0_91
 Built-By: chengliu
 Bundle-Description: ONOS OSGi bundle archetype
@@ -12,14 +12,14 @@ Export-Package: org.onosproject.ovsc;uses:="org.onosproject.core,org.ono
  sproject.net,org.onosproject.net.config,org.onosproject.net.device,org.
  onosproject.net.flow,org.onosproject.net.flowobjective,org.slf4j";versi
  on="1.6.1"
-Import-Package: com.fasterxml.jackson.databind;version="[2.4,3)",com.fas
- terxml.jackson.databind.node;version="[2.4,3)",org.onlab.packet;version
- ="[1.6,2)",org.onlab.util;version="[1.6,2)",org.onosproject.core;versio
- n="[1.6,2)",org.onosproject.event;version="[1.6,2)",org.onosproject.net
- ;version="[1.6,2)",org.onosproject.net.config;version="[1.6,2)",org.ono
- sproject.net.config.basics;version="[1.6,2)",org.onosproject.net.device
- ;version="[1.6,2)",org.onosproject.net.flow;version="[1.6,2)",org.onosp
- roject.net.flowobjective;version="[1.6,2)",org.slf4j;version="[1.7,2)"
+Import-Package: com.fasterxml.jackson.databind;version="[2.7,3)",com.fas
+ terxml.jackson.databind.node;version="[2.7,3)",org.onlab.packet;version
+ ="[1.8,2)",org.onlab.util;version="[1.8,2)",org.onosproject.core;versio
+ n="[1.8,2)",org.onosproject.event;version="[1.8,2)",org.onosproject.net
+ ;version="[1.8,2)",org.onosproject.net.config;version="[1.8,2)",org.ono
+ sproject.net.config.basics;version="[1.8,2)",org.onosproject.net.device
+ ;version="[1.8,2)",org.onosproject.net.flow;version="[1.8,2)",org.onosp
+ roject.net.flowobjective;version="[1.8,2)",org.slf4j;version="[1.7,2)"
 Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
 Service-Component: OSGI-INF/org.onosproject.ovsc.OVSFlowRulesPopulator.x
  ml

@@ -27,7 +27,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <onos.version>1.6.1-SNAPSHOT</onos.version>
+        <onos.version>1.8.0</onos.version>
         <onos.app.name>org.onosproject.ovsc</onos.app.name>
         <onos.app.title>OVS Flow Rules Population for VLAN-based SFC</onos.app.title>
         <onos.app.origin>Cheng (Ian) Liu</onos.app.origin>
